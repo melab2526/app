@@ -69,6 +69,7 @@ class _ResultPageState extends State<ResultPage> {
               ),
             ),
 
+
             // 🧫 タイトル
             Text(
               resultTitle,
@@ -164,15 +165,15 @@ class _ResultPageState extends State<ResultPage> {
     "BCC": {"title": "コツコツ研究型", "type": "理論的アクション派", "text": "考えて動く挑戦者。実験の中で答えを導くタイプです。", "color": const Color(0xFF7596EA), "icon": "assets/icons/kotsukotsu.png",},
 
     // === 💛 Cタイプ：とりあえずやってみる型（#ECC880） ===
-    "CAA": {"title": "とりあえずやってみる型", "type": "ムードメーカー研究者", "text": "行動から始まるリーダーシップ。明るさが研究所のエネルギー源です。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CAB": {"title": "とりあえずやってみる型", "type": "柔軟直感タイプ", "text": "人との関わりを楽しみながら、インスピレーションを広げる協調者。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CAC": {"title": "とりあえずやってみる型", "type": "ひらめき派研究者", "text": "思いついたら即行動！あなたのスピード感が新しい現象を生み出します。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CBA": {"title": "とりあえずやってみる型", "type": "勢い×バランス型", "text": "状況に応じて自在に動けるタイプ。あなたがいるとチームが前を向きます。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CBB": {"title": "とりあえずやってみる型", "type": "現場型観察者", "text": "頭で考えたことをすぐ試せるタイプ。行動と洞察のバランスが絶妙です。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CBC": {"title": "とりあえずやってみる型", "type": "好奇心ハンター", "text": "何にでも手を出してみる柔軟な研究者。あなたの“まずやってみる”が世界を変えます。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CCA": {"title": "とりあえずやってみる型", "type": "感覚リーダー", "text": "人を動かす情熱と勢い。直感で場を引っ張るカリスマ型。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CCB": {"title": "とりあえずやってみる型", "type": "直感リアリスト", "text": "感覚的に動きつつも、必要な分析は忘れない、行動派の中の冷静者。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
-    "CCC": {"title": "とりあえずやってみる型", "type": "自由研究者", "text": "思い立ったらすぐ実験！失敗もデータのうち。ひらめきが次の発見を生み出します。", "color": const Color(0xFFECC880), "icon": "assets/icons/try.png",},
+    "CAA": {"title": "とりあえずやってみる型", "type": "ムードメーカー研究者", "text": "行動から始まるリーダーシップ。明るさが研究所のエネルギー源です。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CAB": {"title": "とりあえずやってみる型", "type": "柔軟直感タイプ", "text": "人との関わりを楽しみながら、インスピレーションを広げる協調者。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CAC": {"title": "とりあえずやってみる型", "type": "ひらめき派研究者", "text": "思いついたら即行動！あなたのスピード感が新しい現象を生み出します。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CBA": {"title": "とりあえずやってみる型", "type": "勢い×バランス型", "text": "状況に応じて自在に動けるタイプ。あなたがいるとチームが前を向きます。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CBB": {"title": "とりあえずやってみる型", "type": "現場型観察者", "text": "頭で考えたことをすぐ試せるタイプ。行動と洞察のバランスが絶妙です。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CBC": {"title": "とりあえずやってみる型", "type": "好奇心ハンター", "text": "何にでも手を出してみる柔軟な研究者。あなたの“まずやってみる”が世界を変えます。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CCA": {"title": "とりあえずやってみる型", "type": "感覚リーダー", "text": "人を動かす情熱と勢い。直感で場を引っ張るカリスマ型。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CCB": {"title": "とりあえずやってみる型", "type": "直感リアリスト", "text": "感覚的に動きつつも、必要な分析は忘れない、行動派の中の冷静者。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
+    "CCC": {"title": "とりあえずやってみる型", "type": "自由研究者", "text": "思い立ったらすぐ実験！失敗もデータのうち。ひらめきが次の発見を生み出します。", "color": const Color(0xFF9DDE94), "icon": "assets/icons/try.png",},
 
     // 🪶 フォールバック（エラー時など）
     "default": {
