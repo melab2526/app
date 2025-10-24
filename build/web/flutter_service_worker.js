@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "028757a836cc30edf0e6f483f0925807",
+const RESOURCES = {"flutter_bootstrap.js": "931f04f4ec5e01452fc5009e0313a41b",
 "version.json": "0f6b80d3632805bb155821082c1a0191",
 "index.html": "0489a3edf191906bdce403b4d69daf41",
 "/": "0489a3edf191906bdce403b4d69daf41",
-"main.dart.js": "6d6f4fdb81939d4571ccb7d2bcb4663b",
+"main.dart.js": "14746a387dddc7654f708aaa6f0e3da8",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -25,7 +25,7 @@ const RESOURCES = {"flutter_bootstrap.js": "028757a836cc30edf0e6f483f0925807",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/assets/melab_background.png": "55f75c527cd57a4e580ba7516ebd56c2",
 "assets/assets/icons/waiwai.png": "026051bde2b7aed80580a6eb879c6236",
-"assets/assets/icons/try.png": "b0fa7f7cff7f7eb63a00d13746b8f9ff",
+"assets/assets/icons/try.png": "d359599a8391509a24f7dc489fe354af",
 "assets/assets/icons/kotsukotsu.png": "32938273802ba7cf9524147e27d94fa8",
 "assets/assets/Group1.png": "34699f0c30635cb0ae0df2d25ff0f474",
 "assets/assets/Group2.png": "aff59e230b7b1c049af59990384a2fc5",
